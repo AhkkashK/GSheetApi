@@ -31,8 +31,8 @@ Il faudra activer l'env virtuel en fonction de votre os.
 ## Création du projet GCP
 
 1. Créez un projet sur Google Cloud Platform.
-2. Activez l'API Google Sheets et l'API Google Drive dans votre projet.
-3. Créez des identifiants pour un compte de service et téléchargez le fichier (le renommer :credentials.json) .
+2. Activez l'API Google Sheets dans votre projet.
+3. Créez l'identifiant pour un compte de service et téléchargez le fichier (le renommer :credentials.json) .
 
 
 ## Utilisation 
