@@ -34,7 +34,8 @@ Il faudra activer l'env virtuel en fonction de votre os.
 
 1. Créez un projet sur Google Cloud Platform.
 2. Activez l'API Google Sheets dans votre projet.
-3. Créez l'identifiant pour un compte de service et téléchargez le fichier (le renommer :credentials.json) .
+3. Créez l'identifiant pour un compte de service et téléchargez le fichier (le renommer :credentials.json) . N'oubliez pas de mettre le rôle "éditeur".
+   
 
 
 ## Utilisation 
@@ -54,5 +55,5 @@ ngram_analysis : retourne les ngram les plus fréquents à l'aide des deux fonct
 
 df_to_sheet : charge une dataframe sur un fichier google sheet spécifique. Prend en entrée le spreadsheet, le titre, les lignes et colonnes.
 
-main : programme principal qui fera la connection à l'api, l'analyse ngram et le chargement des données. A noter que la variable sheet_id devra être modifier selon l'id de votre fichier google sheet.
+main : programme principal qui fera la connection à l'api, l'analyse ngram et le chargement des données. A noter que la variable sheet_id devra être modifier selon l'id de votre fichier google sheet (se trouve dans l'url du sheet).
    
