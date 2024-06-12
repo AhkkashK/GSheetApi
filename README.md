@@ -19,13 +19,15 @@ comment s'est fait la connection à l'api et le chargement des données dans un 
 2. Créer un environnement virtuel** :
    ```bash
    python -m venv myvenv
-   source myvenv/bin/activate  
+   source myvenv/bin/activate
+   ```
 
 Il faudra activer l'env virtuel en fonction de votre os.
 
   puis lancez cette commande : 
-    
-    pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 
 ## Création du projet GCP
