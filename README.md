@@ -48,7 +48,7 @@ clean_data : fait un nettoyage du texte pour faire une analyse nngram plus tard.
 
 ngram_generator : génère des ngram en donnant en entrée un string et un int (qui est votre n).
 
-ngram_analysis : retourne les ngram les plus fréquents à l'aide des deux fonctions précédentes.
+ngram_analysis : retourne les ngram les plus fréquents à l'aide des deux fonctions précédentes. J'ai mis en commentaire les insights que j'ai pu trouvé.
 
 df_to_sheet : charge une dataframe sur un fichier google sheet spécifique. Prend en entrée le workbook, le titre du sheet, les lignes et colonnes.
 
