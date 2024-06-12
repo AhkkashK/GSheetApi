@@ -50,7 +50,7 @@ ngram_generator : génère des ngram en donnant en entrée un string et un int (
 
 ngram_analysis : retourne les ngram les plus fréquents à l'aide des deux fonctions précédentes. J'ai mis en commentaire les insights que j'ai pu trouvé.
 
-df_to_sheet : charge une dataframe sur un fichier google sheet spécifique. Prend en entrée le spreadsheet, le titre du sheet, les lignes et colonnes.
+df_to_sheet : charge une dataframe sur un fichier google sheet spécifique. Prend en entrée le spreadsheet, le titre, les lignes et colonnes.
 
 main : programme principal qui fera la connection à l'api, l'analyse ngram et le chargement des données. A noter que la variable sheet_id devra être modifier selon l'id de votre fichier google sheet.
    
