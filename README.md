@@ -12,6 +12,9 @@ vous comment s'est fait la connection à l'api et le chargement des données dan
    ```bash
    git clone https://github.com/votre-nom-utilisateur/nom-de-votre-depot.git
    cd nom-de-votre-depot
+   ```
+   Sinon vous pouvez simplement télécharger le code.
+
 
 2. Créer un environnement virtuel** :
    ```bash
