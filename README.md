@@ -3,7 +3,7 @@
 ## Description
 
 Ce projet a pour but de me familiariser avec l'environnement GCP et l'api Google Sheet. Ainsi dans ce projet vous retrouverez
-vous comment s'est fait la connection à l'api et le chargement des données dans un sheet. D'autre part j'ai fait une ngram et extrait des insights. 
+comment s'est fait la connection à l'api et le chargement des données dans un sheet. D'autre part j'ai fait une analyse ngram et extrait des insights. 
 
 
 ## Installation
